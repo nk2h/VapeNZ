@@ -21,7 +21,7 @@ o	Estimate the average number of potential customers per vape shop.
 Since there is no specific data for 18 years and above, people 20 years and above can be considered potential vapers. Four million people are in the eligible age group. 1,450 out of 1,660 vape retailers are approved. Therefore, the estimated average number of vapers per store is around 2.7k based on the 20-year-old and above age group.  
 o	Research and include any available data on total vape sales in New Zealand.  
 No vape sales data available online.   
-**4.	Trends and Insights**
+**4.	Trends and Insights**  
 o	Investigate and present data on vape usage by age and demographics.  
 o	Highlight any notable trends or insights you find during your research.  
 References:   
