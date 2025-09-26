@@ -1,5 +1,5 @@
 #  Vape Market Analysis in NZ
-#### This was part of the interview process for the Part-time Retail Assistant and IT Support role at Vape Mart, Wellington.
+### This was part of the interview process for the Part-time Retail Assistant and IT Support role at Vape Mart, Wellington.
 
 **1.	Market Analysis**  
 o	Q1: Identify the total number of vape shops in New Zealand.  
